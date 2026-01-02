@@ -20,24 +20,6 @@ This project automates multiple types of Nmap scans in one execution, saving tim
 ✔ Aggressive scan
 ✔ Traceroute discovery
 
-📂 Project Structure
-Nmap-Basic-to-Advance/
-├── nmap_full_scan.sh
-├── nmap_results/
-│   ├── basic_<date>.txt
-│   ├── ping_<date>.txt
-│   ├── top_ports_<date>.txt
-│   ├── all_ports_<date>.txt
-│   ├── service_version_<date>.txt
-│   ├── os_detection_<date>.txt
-│   ├── default_scripts_<date>.txt
-│   ├── vuln_<date>.txt
-│   ├── http_<date>.txt
-│   ├── ssl_<date>.txt
-│   ├── aggressive_<date>.txt
-│   └── traceroute_<date>.txt
-└── README.md
-
 ▶️ How to Run
 1️⃣ Give Execute Permission
 chmod +x nmap_full_scan.sh
