@@ -1,23 +1,4 @@
-# Nmap-Basic-to-Advance
+🔍 Nmap Basic to Advanced – Automated Scan Suite
 
-▶️How to Run
-
-chmod +x nmap_full_scan.sh
-./nmap_full_scan.sh
-
-
-📁 Output Structure
-
-nmap_results/
- ├── basic_*.txt
- ├── ping_*.txt
- ├── top_ports_*.txt
- ├── all_ports_*.txt
- ├── service_version_*.txt
- ├── os_detection_*.txt
- ├── default_scripts_*.txt
- ├── vuln_*.txt
- ├── http_*.txt
- ├── ssl_*.txt
- ├── aggressive_*.txt
- └── traceroute_*.txt
+A Bash-based Nmap automation script that performs basic to advanced network reconnaissance in a structured and beginner-friendly way.
+Ideal for cybersecurity students, SOC analysts, pentesters, and CTF practice.
